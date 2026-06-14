@@ -70,7 +70,7 @@ Computer Science Engineer passionate about software development and technology. 
 ## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-username">
+  <a href="https://www.linkedin.com/in/maximiliano-lizana-a8942238b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:m.lizana003@gmail.com">
