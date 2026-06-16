@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=offlnr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/offlnr?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers">
   <img src="https://img.shields.io/badge/Location-Chile%20%F0%9F%87%A8%F0%9F%87%B1-blue?style=flat-square" alt="Chile">
   <img src="https://img.shields.io/badge/Degree-Computer%20Engineering-darkgreen?style=flat-square" alt="Degree">
 </p>
