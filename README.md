@@ -14,10 +14,10 @@
 
 Computer Engineering student passionate about software development and technology. I have been diving into code since **2017** — starting with plenty of curiosity and breaking things along the way.
 
-- 🎮 I build **video game mods** and enjoy pushing the limits of existing games
-- 🌐 I develop **web applications** and **desktop software**
-- 📚 Constantly learning new concepts and applying them to real-world projects
-- 🇨🇱 Based in **Chile**
+- I build **video game mods** and enjoy pushing the limits of existing games
+- I develop **web applications** and **desktop software**
+- Constantly learning new concepts and applying them to real-world projects
+- Based in **Chile**
 
 ---
 
