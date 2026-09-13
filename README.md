@@ -1,16 +1,3 @@
-<div align="center">
-  <img src="./assets/banner-github.png" alt="offlnr — pixel art banner" width="100%">
-
-  <br>
-
-  <samp>
-    Computer Engineering student interested in artificial intelligence and software development.<br>
-    Building web apps, desktop software and game mods since 2017.
-  </samp>
-</div>
-
-<br>
-
 ```text
 ┌─ LANGUAGES ───────────────────────────────────────────────┐
 ```
